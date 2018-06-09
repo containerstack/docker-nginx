@@ -1,4 +1,4 @@
-FROM containerstack/alpine:3.7
+FROM containerstack/alpine:3.7.0
 
 LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
 
