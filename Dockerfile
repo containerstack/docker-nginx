@@ -1,6 +1,6 @@
 FROM containerstack/alpine:3.7.0
 
-LABEL maintainer="NGINX Docker Maintainers <docker-maint@nginx.com>"
+LABEL maintainer="Remon Lam <remon@containerstack.io>"
 
 ENV NGINX_VERSION 1.15.0
 
